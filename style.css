@@ -25,29 +25,28 @@ img {
 
 #container {
     margin-top: 20%;
-    margin-left: 10%;
-    margin-right: 10%;
+    margin-left: 20%;
+    margin-right: 20%;
     margin-bottom: 5%;
 }
 
 .row {
     position: relative;
-    margin-left: 10%;
-    margin-right: 10%;
+
 }
 
 .white {
     border: 1px solid black;
-    width: 10%;
-    height: 10%;
+    width: 12%;
+    height: 12%;
     background-color: white;
     float: left;
 }
 
 .black {
     border: 1px solid black;
-    width: 10%;
-    height: 10%;
+    width: 12%;
+    height: 12%;
     background-color: #787878;
     float: left;
 }
